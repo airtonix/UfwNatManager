@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{9344bdbb-3e7f-41fc-a0dd-8665d75ee146}") = "UfwNatManager", "UfwNatManager.mdproj", "{4A09164E-45FB-46A4-9C91-CD31B4A9DD9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A09164E-45FB-46A4-9C91-CD31B4A9DD9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A09164E-45FB-46A4-9C91-CD31B4A9DD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A09164E-45FB-46A4-9C91-CD31B4A9DD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A09164E-45FB-46A4-9C91-CD31B4A9DD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = UfwNatManager.mdproj
+	EndGlobalSection
+EndGlobal
